@@ -3,7 +3,7 @@
 ripped by saturn
 
 if you dont know what this game is its a fnaf fan made game on gamejolt and is trending on youtube and tiktok
-heres a video of a gameplay https://www.youtube.com/watch?v=biZWRj87bZE
+heres a video of a gameplay https://www.youtube.com/watch?v=7wQJfg-V7zM
 
 this project has the sences the code and everything its not setup tho so you will need to set it up
 
