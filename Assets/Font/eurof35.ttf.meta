@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 875bfbc40a307e040985b4ecb5ac024e
+timeCreated: 1762634498
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  externalObjects: {}
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: eurofurence light
+  fontNames:
+  - eurofurence light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e2096be7ede39f54a9a0ab2d5ec939ee, type: 3}
+  customCharacters:
+  fontRenderingMode: 0
+  output:
+    hasEmptyFontData: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData:
+  assetBundleName:
+  assetBundleVariant:

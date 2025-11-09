@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - humanoid
+  - Animatronick
+  - PlanshetTrigger
+  - WayPoint
+  - Player2
+  - BoxColl
+  - Stens
+  - trigg
+  - Floor
+  - Player3
+  - Endo
+  - EndoCameraClose
+  - PlayerG
+  - AnimatronicG
+  - Foot
+  - Point
+  - Orange
+  - DeathTrigger
+  - PlayerConnect
+  - PlayerDeath
+  - Player1
+  - Player1_2
+  - LayerTrigger
+  - ModelFonarik
+  - ModelPlayer
+  - Blue
+  - Camera
+  - visbox
+  - nvisbox
+  - DeathTrigger2
+  - DeathPsich
+  - triggerEbutton
+  - Hide
+  - AggreOrange
+  - AggreBlue
+  - HidePlayerTrigger
+  - HideOpenTrigger
+  - BatterySpawner1
+  - BatterySpawner2
+  - BatteryDestroy
+  - triggerE
+  - PlayerModel1
+  - Card
+  - RedCardREF
+  - BlueCardREF
+  - Generator
+  - StepOn
+  - GamePlay
+  - StepOn2
+  - Points
+  - Points2
+  - Target2
+  - Control
+  - DeathOff1
+  - DeathOff2
+  - DeathEnd
+  - Phantom
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - terrain
+  - door
+  - Stens
+  - NoMesh
+  - Obstacle
+  - Target
+  - Target2
+  - Hand
+  - Post Processing
+  - OffDefault
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
